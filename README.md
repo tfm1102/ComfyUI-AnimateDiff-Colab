@@ -1,3 +1,5 @@
 # ComfyUI-AnimateDiff-Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tfm1102/ComfyUI-AnimateDiff-Colab/blob/master/Comfyui-AnimateDiff-Colab.ipynb)
+<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
