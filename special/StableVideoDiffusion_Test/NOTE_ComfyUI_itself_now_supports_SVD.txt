@@ -1,0 +1,4 @@
+So we no longer need to use this workflow.
+
+New workflow is here:
+https://comfyanonymous.github.io/ComfyUI_examples/video/
