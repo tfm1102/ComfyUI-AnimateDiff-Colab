@@ -6,4 +6,4 @@ Colab for easy use of <a href="https://github.com/Kosinkadink/ComfyUI-AnimateDif
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-![Sample](https://raw.githubusercontent.com/tfm1102/ComfyUI-AnimateDiff-Colab/samples/01_sample.gif)
+![Sample]([https://raw.githubusercontent.com/tfm1102/ComfyUI-AnimateDiff-Colab/samples/01_sample.gif](https://github.com/tfm1102/ComfyUI-AnimateDiff-Colab/blob/main/samples/01_sample.gif))
