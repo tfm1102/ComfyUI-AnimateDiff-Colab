@@ -6,6 +6,8 @@ Colab notebook for easy use of <a href="https://github.com/Kosinkadink/ComfyUI-A
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-<a href="https://github.com/tfm1102/ComfyUI-AnimateDiff-Colab/blob/main/samples/01_basic_adf_workflow.json">Sample Workflow</a>.
+## Sample
+
+<a href="https://github.com/tfm1102/ComfyUI-AnimateDiff-Colab/blob/main/samples/01_basic_adf_workflow.json">simple AnimateDiff workflow</a>.
 
 ![Sample](https://github.com/tfm1102/ComfyUI-AnimateDiff-Colab/blob/main/samples/sample01.gif)
